@@ -2,8 +2,6 @@
 
 This is a simple Todo List application developed by Akrem Abdulakdir and built with React.js. It allows you to manage your tasks and keep track of your to-do items efficiently.
 
-![Todo List App Screenshot]()
-
 ## Features
 
 - Add new tasks to the list.
