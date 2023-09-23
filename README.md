@@ -1,46 +1,71 @@
-# Todo List
+# React Todo List App
 
-Todo List is a simple web application created by Akrem Abdulkakdir for managing your tasks and to-do items. With this application, you can easily keep track of your tasks and mark them as completed when finished.
+This is a simple Todo List application developed by Akrem Abdulakdir and built with React.js. It allows you to manage your tasks and keep track of your to-do items efficiently.
+
+![Todo List App Screenshot]()
 
 ## Features
 
 - Add new tasks to the list.
 - Mark tasks as completed.
-- Delete tasks from the list.
+- Delete tasks.
 - Filter tasks based on their completion status (all, active, completed).
-- Clear all completed tasks.
-- Responsive design for optimal viewing on different devices.
 
 ## Technologies Used
 
-- HTML, CSS, and JavaScript
+- React.js
+- HTML
+- CSS
 
 ## Getting Started
 
-To use the Todo List application, follow these steps:
+To run the Todo List app locally, follow these steps:
 
 1. Clone the repository:
 
    ````bash
-   git clone https://github.com/akremabdulkakdir/todo-list.git
+   git clone https://github.com/akrem2005/TodoList.git
    ```
 
    ````
 
-2. Open the `index.html` file in your preferred web browser.
+2. Navigate to the project directory:
 
-## How to Use
+   ````bash
+   cd todo-list-react
+   ```
+
+   ````
+
+3. Install the dependencies:
+
+   ````bash
+   npm install
+   ```
+
+   ````
+
+4. Start the development server:
+
+   ````bash
+   npm start
+   ```
+
+   ````
+
+5. Open your web browser and visit `http://localhost:3000` to see the app in action.
+
+## Usage
 
 1. Enter a task in the input field at the top of the page.
 2. Press Enter or click the "Add" button to add the task to the list.
 3. To mark a task as completed, click the checkbox next to it.
 4. To delete a task, click the "Delete" button next to it.
-5. Use the filter buttons at the bottom of the list to show all tasks, active tasks, or completed tasks.
-6. To clear all completed tasks, click the "Clear Completed" button.
+5. Use the filter buttons at the top of the list to show all tasks, active tasks, or completed tasks.
 
 ## Contributing
 
-Contributions to the Todo List project are welcome. If you find any bugs or have suggestions for improvements, please submit an issue or create a pull request.
+Contributions to the Todo List app are welcome. If you find any bugs or have suggestions for improvements, please submit an issue or create a pull request.
 
 ## License
 
@@ -48,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, you can reach out to Akrem Abdulkakdir at codethicaet@gmail.com.
+For any inquiries or questions, feel free to reach out to the project owner at codethicaet@gmail.com.
